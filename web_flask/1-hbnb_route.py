@@ -16,7 +16,7 @@ def hello():
     return "Hello HBNB!"
 
 @app.route('/hbnb')
-def helloagain()
+def helloagain():
     """Other hello"""
     return "HBNB"
 
